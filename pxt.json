@@ -1,5 +1,6 @@
 {
     "name": "Moving_on_Map",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
